@@ -19,8 +19,8 @@ import json
 import random
 
 name = "database.db"
-api_key = "472b43295a1a11e40c86c14de394ef9a"
-base_url = "http://api.openweathermap.org/data/2.5/weather?"
+api_key = ""
+base_url = ""
 intents = discord.Intents.default()
 intents.members = True
 intents.presences = True
