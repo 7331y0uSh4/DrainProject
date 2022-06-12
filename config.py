@@ -1,5 +1,5 @@
 settings = {
-    'token': 'OTcyMzk5NTMzNzg0OTg5NzQ4.GCGYGs.ym5a4A07WewO6LFw8Rv0rMB5GZjAx2U4t97M7g',
+    'token': '',
     'bot': 'DrainMusic#2904',
     'id': 972399533784989748,
     'prefix': '!'
